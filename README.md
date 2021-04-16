@@ -41,7 +41,7 @@ A Foodie 🎂
 - 🌱 I’m currently learning ... **To Automate The Stuff**
 - 👯 I’m looking to collaborate on ... **Myself**
 - 🤔 I’m looking for help with ... **Conversion Of Knowledge To Excellence**
-- 💬 Ask me about ... **What I Can Answer 😄**rit
+- 💬 Ask me about ... **What I Can Answer 😄**
 - 📫 How to reach me: ... **rituraj.iter@gmail.com**
 - 😄 Pronouns: ... **He/Him**
 - ⚡ Fun fact: ... **Preson To Forget 😜**
