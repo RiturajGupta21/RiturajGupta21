@@ -43,8 +43,8 @@ A Foodie 🎂
 - 🤔 I’m looking for help with ... **Conversion Of Knowledge To Excellence**
 - 💬 Ask me about ... **What I Can Answer 😄**
 - 📫 How to reach me: ... **rituraj.iter@gmail.com**
-- 😄 Pronouns: ... **He/Him**
-- ⚡ Fun fact: ... **Preson To Forget 😜**
+- 😄 Pronouns: ... **He/Him/Mr.**
+- ⚡ Fun fact: ... **Person To Forget 😜**
 
 ### Reach out to me 👓
 <a href="https://www.linkedin.com/in/rituraj-gupta-222334192"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a>
