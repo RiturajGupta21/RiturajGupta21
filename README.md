@@ -24,6 +24,7 @@ A Foodie 🎂
 ![Java](https://img.shields.io/badge/Java-blue?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javaScript&logoColor=blue)
+![CPP](https://img.shields.io/badge/cpp-dark?style=flat&logo=c%2B%2B)
 ![Android](https://img.shields.io/badge/Android-grey?style=flat&logo=android&logoColor=green)
 ![Eclipse](https://img.shields.io/badge/eclipse-blue.svg?logo=eclipse)
 ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-blue.svg?logo=Android%20Studio)
