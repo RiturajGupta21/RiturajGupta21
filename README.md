@@ -6,7 +6,7 @@
 
 ## I'm Rituraj Gupta 😊
 
-## Visit My Protfolio Page : [Click Here](http://bit.do/riturajgupta)
+## Visit My Protfolio Page : [Click Here](http://riturajgupta.rf.gd/)
 
 ### About me :eyes:
 
