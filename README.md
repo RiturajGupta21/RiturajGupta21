@@ -48,7 +48,7 @@ A Foodie 🎂
 - ⚡ Fun fact: ... **Person To Forget 😜**
 
 ### Reach out to me 👓
-<a href="https://www.linkedin.com/in/rituraj-gupta-222334192"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a>
+<a href="https://www.linkedin.com/in/rituraj-gupta/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a>
 <a href="https://github.com/riturajgupta21"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a>
 <a href="https://twitter.com/guptarituraj01"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a>
 <a href="https://www.instagram.com/_rituraj10_/"><img src="https://f0.pngfuel.com/png/605/658/black-and-white-instagram-logo-logo-black-and-white-instagram-logo-png-clip-art-thumbnail.png" width="32px" height="32px"></a> 
