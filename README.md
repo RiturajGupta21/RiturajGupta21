@@ -14,8 +14,6 @@
 
 :smiley: Member of **[CODEX](https://github.com/codex-iter)**
 
-:smiley: Member of **[Coding Wizard ITER](https://github.com/CodingWizardITER)**
-
 A learner on the way to explore
 
 A Foodie 🎂 
